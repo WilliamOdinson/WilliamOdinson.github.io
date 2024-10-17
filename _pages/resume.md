@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resumé"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -53,9 +53,9 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+capstone
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.capstone reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
