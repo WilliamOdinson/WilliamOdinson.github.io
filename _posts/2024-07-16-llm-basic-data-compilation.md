@@ -4,7 +4,7 @@ date: 2024-07-16
 permalink: /posts/2024/07/llm-basic-data-compilation
 tags: 
  - LLM
-excerpt: "This article explores essential factors for running Large Language Models, including VRAM requirements based on model size, inference speeds, and the impact of quantization on performance and memory. It evaluates acceleration tools like vLLM and DeepSeed, and examines how context length and batch size influence VRAM usage and efficiency, using data from leading sources."
+excerpt: "This article explores essential factors for running Large Language Models, including VRAM requirements based on model size, inference speeds, and the impact of quantization on performance and memory."
 ---
 
 Through this article, you can understand the following aspects:
